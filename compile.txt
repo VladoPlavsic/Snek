@@ -1,0 +1,1 @@
+g++ ./food/food.cpp ./map/map.cpp ./timer/timer.cpp ./keyboard/keyboard.cpp ./python/python.cpp main.cpp -o gam -pthread
