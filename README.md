@@ -5,11 +5,10 @@ Developed and tested using g++ compiler (needs to support -std=c++17 pr -std=gnu
 
 Usage:
 
-  Compile:
-  
-    g++ -pthread ./food/food.cpp ./map/map.cpp ./timer/timer.cpp ./keyboard/keyboard.cpp ./python/python.cpp main.cpp -o your_executable_name
+    1. chmod 744 ./run.bash
+    2. ./run.bash
 
-  Run:
-  
-    ./your_executable_name
-  
+Enjoj :)
+
+P.S. Fix bugs if you can :)
+
